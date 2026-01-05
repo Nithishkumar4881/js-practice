@@ -656,3 +656,29 @@
 // console.log(obj2.getA());
 
 ////----------------------------------------------------
+
+// create an array of sum: at any index put sum of all elements expected that index
+
+// const arr = [5,3,8,-1,10];
+
+// function sum(a) {
+    
+//     const result = [];
+    
+
+//     for (let i = 0; i <= a.length-1; i++) {
+//              let val = 0;
+//         for (let j = 0; j <= a.length-1; j++) {
+//            if(i !== j){
+//             val += a[j]
+//            } 
+//         }
+//         result.push(val)
+//         val = 0;
+        
+//     }
+//     return result;
+// }
+
+// console.log(sum(arr));
+// -----------------------------------------------
